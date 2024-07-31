@@ -1,0 +1,1 @@
+import{_ as o,c as n,o as s,F as t,a as e}from"./index-BiaFJ7TC.js";const c={},a=e("h1",null,"Under development",-1),r=e("p",null,"This page is coming soon",-1);function _(l,i){return s(),n(t,null,[a,r],64)}const m=o(c,[["render",_]]);export{m as default};
