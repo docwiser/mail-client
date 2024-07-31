@@ -1,6 +1,6 @@
 import { ref, onUnmounted } from 'vue';
 import { io } from 'socket.io-client';
-const socket = io('http://localhost:3000');
+const socket = io('https://mail-hud9.onrender.com');
 const connectionManager = ref({
 connected: false,
 disconnected: true,
